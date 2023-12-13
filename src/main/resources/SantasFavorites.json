@@ -1,0 +1,512 @@
+[
+  {
+    "name": "Tom",
+    "lastName": "Johnson",
+    "phoneNumber": "1234567890",
+    "address": "456 Oak St, Cityville",
+    "age": 15,
+    "presents": [
+      {
+        "name": "coffee machine",
+        "price": 10,
+        "description": "Single-serve coffee maker",
+        "weight": 2.5,
+        "color": "Silver"
+      },
+      {
+        "name": "knife",
+        "price": 17,
+        "description": "Professional chef's knife",
+        "weight": 0.8,
+        "color": "Black"
+      }
+    ]
+  },
+  {
+    "name": "Ben",
+    "lastName": "Miller",
+    "phoneNumber": "9876543210",
+    "address": "789 Main St, Townsville",
+    "age": 12,
+    "presents": [
+      {
+        "name": "potato",
+        "price": 10,
+        "description": "Fresh and organic potato",
+        "weight": 0.5,
+        "color": "Brown"
+      },
+      {
+        "name": "carrot",
+        "price": 17,
+        "description": "Farm-fresh carrot",
+        "weight": 0.4,
+        "color": "Orange"
+      }
+    ]
+  },
+  {
+    "name": "Sara",
+    "lastName": "Williams",
+    "phoneNumber": "2345678901",
+    "address": "123 Pine St, Villagetown",
+    "age": 18,
+    "presents": [
+      {
+        "name": "book",
+        "price": 15,
+        "description": "Bestseller novel",
+        "weight": 1.0,
+        "color": "Various"
+      },
+      {
+        "name": "headphones",
+        "price": 30,
+        "description": "Noise-canceling headphones",
+        "weight": 0.3,
+        "color": "Black"
+      }
+    ]
+  },
+  {
+    "name": "Alex",
+    "lastName": "Davis",
+    "phoneNumber": "3456789012",
+    "address": "456 Maple St, Hamletville",
+    "age": 25,
+    "presents": [
+      {
+        "name": "smartwatch",
+        "price": 100,
+        "description": "Fitness and smartwatch",
+        "weight": 0.2,
+        "color": "Blue"
+      },
+      {
+        "name": "laptop",
+        "price": 800,
+        "description": "High-performance laptop",
+        "weight": 2.5,
+        "color": "Silver"
+      }
+    ]
+  },
+  {
+    "name": "Emily",
+    "lastName": "Smith",
+    "phoneNumber": "4567890123",
+    "address": "789 Elm St, Countryside",
+    "age": 30,
+    "presents": [
+      {
+        "name": "spa voucher",
+        "price": 50,
+        "description": "Relaxing spa experience",
+        "weight": 0.1,
+        "color": "White"
+      },
+      {
+        "name": "candle set",
+        "price": 20,
+        "description": "Aromatic candle collection",
+        "weight": 0.4,
+        "color": "Assorted"
+      }
+    ]
+  },
+  {
+    "name": "Chris",
+    "lastName": "Smith",
+    "phoneNumber": "1234567890",
+    "address": "456 Oak St, Cityville",
+    "age": 22,
+    "presents": [
+      {
+        "name": "Gaming Console",
+        "price": 300,
+        "description": "Latest gaming console",
+        "weight": 4.0,
+        "color": "Black"
+      },
+      {
+        "name": "Video Games",
+        "price": 60,
+        "description": "Popular video game titles",
+        "weight": 0.2,
+        "color": "Various"
+      }
+    ]
+  },
+  {
+    "name": "Olivia",
+    "lastName": "Johnson",
+    "phoneNumber": "9876543210",
+    "address": "789 Elm St, Countryside",
+    "age": 28,
+    "presents": [
+      {
+        "name": "Camera",
+        "price": 400,
+        "description": "High-resolution digital camera",
+        "weight": 1.5,
+        "color": "Silver"
+      },
+      {
+        "name": "Travel Voucher",
+        "price": 200,
+        "description": "Travel voucher for exotic destinations",
+        "weight": 0.1,
+        "color": "Blue"
+      }
+    ]
+  },
+  {
+    "name": "Jason",
+    "lastName": "Williams",
+    "phoneNumber": "8765432109",
+    "address": "123 Pine St, Hilltop",
+    "age": 35,
+    "presents": [
+      {
+        "name": "Grill Set",
+        "price": 80,
+        "description": "Complete barbecue grill set",
+        "weight": 3.0,
+        "color": "Red"
+      },
+      {
+        "name": "Wine Collection",
+        "price": 120,
+        "description": "Fine selection of wines",
+        "weight": 2.5,
+        "color": "Various"
+      }
+    ]
+  },
+  {
+    "name": "Mia",
+    "lastName": "Anderson",
+    "phoneNumber": "7654321098",
+    "address": "567 Maple St, Riverside",
+    "age": 19,
+    "presents": [
+      {
+        "name": "Skateboard",
+        "price": 50,
+        "description": "Stylish skateboard for tricks",
+        "weight": 2.0,
+        "color": "Green"
+      },
+      {
+        "name": "Art Supplies",
+        "price": 25,
+        "description": "Creative art supplies kit",
+        "weight": 1.0,
+        "color": "Various"
+      }
+    ]
+  },
+  {
+    "name": "William",
+    "lastName": "Jones",
+    "phoneNumber": "6543210987",
+    "address": "789 Cedar St, Lakeside",
+    "age": 40,
+    "presents": [
+      {
+        "name": "Golf Clubs",
+        "price": 200,
+        "description": "High-quality golf club set",
+        "weight": 5.0,
+        "color": "Silver"
+      },
+      {
+        "name": "Leather Wallet",
+        "price": 50,
+        "description": "Genuine leather wallet",
+        "weight": 0.3,
+        "color": "Brown"
+      }
+    ]
+  },
+  {
+    "name": "Sophia",
+    "lastName": "Miller",
+    "phoneNumber": "1234567890",
+    "address": "456 Oak St, Cityville",
+    "age": 27,
+    "presents": [
+      {
+        "name": "Fitness Tracker",
+        "price": 80,
+        "description": "Smart fitness tracker",
+        "weight": 0.1,
+        "color": "Pink"
+      },
+      {
+        "name": "Yoga Mat",
+        "price": 20,
+        "description": "High-quality yoga mat",
+        "weight": 1.0,
+        "color": "Purple"
+      }
+    ]
+  },
+  {
+    "name": "Nathan",
+    "lastName": "Johnson",
+    "phoneNumber": "9876543210",
+    "address": "789 Elm St, Countryside",
+    "age": 32,
+    "presents": [
+      {
+        "name": "Toolset",
+        "price": 150,
+        "description": "Complete toolset for DIY projects",
+        "weight": 4.0,
+        "color": "Red"
+      },
+      {
+        "name": "Power Drill",
+        "price": 100,
+        "description": "Cordless power drill",
+        "weight": 2.0,
+        "color": "Blue"
+      }
+    ]
+  },
+  {
+    "name": "Grace",
+    "lastName": "Williams",
+    "phoneNumber": "8765432109",
+    "address": "123 Pine St, Hilltop",
+    "age": 23,
+    "presents": [
+      {
+        "name": "Jewelry Set",
+        "price": 120,
+        "description": "Elegant jewelry set",
+        "weight": 0.5,
+        "color": "Gold"
+      },
+      {
+        "name": "Perfume",
+        "price": 50,
+        "description": "Luxurious perfume",
+        "weight": 0.2,
+        "color": "Rose"
+      }
+    ]
+  },
+  {
+    "name": "Michael",
+    "lastName": "Anderson",
+    "phoneNumber": "7654321098",
+    "address": "567 Maple St, Riverside",
+    "age": 28,
+    "presents": [
+      {
+        "name": "Guitar",
+        "price": 200,
+        "description": "Acoustic guitar",
+        "weight": 3.0,
+        "color": "Natural"
+      },
+      {
+        "name": "Music Lessons",
+        "price": 60,
+        "description": "Music lessons gift certificate",
+        "weight": 0.1,
+        "color": "White"
+      }
+    ]
+  },
+  {
+    "name": "Lily",
+    "lastName": "Jones",
+    "phoneNumber": "6543210987",
+    "address": "789 Cedar St, Lakeside",
+    "age": 24,
+    "presents": [
+      {
+        "name": "Plant Collection",
+        "price": 40,
+        "description": "Assorted indoor plants",
+        "weight": 1.0,
+        "color": "Green"
+      },
+      {
+        "name": "Home Decor",
+        "price": 30,
+        "description": "Trendy home decor items",
+        "weight": 0.5,
+        "color": "Various"
+      }
+    ]
+  },
+  {
+    "name": "David",
+    "lastName": "Brown",
+    "phoneNumber": "1234567890",
+    "address": "456 Oak St, Cityville",
+    "age": 33,
+    "presents": [
+      {
+        "name": "Coffee Grinder",
+        "price": 50,
+        "description": "Manual coffee grinder",
+        "weight": 0.8,
+        "color": "Black"
+      },
+      {
+        "name": "Fancy Mug Set",
+        "price": 25,
+        "description": "Elegant mug set",
+        "weight": 0.4,
+        "color": "White"
+      }
+    ]
+  },
+  {
+    "name": "Amy",
+    "lastName": "Smith",
+    "phoneNumber": "9876543210",
+    "address": "789 Elm St, Countryside",
+    "age": 26,
+    "presents": [
+      {
+        "name": "Fitness Class Pass",
+        "price": 60,
+        "description": "Access to fitness classes",
+        "weight": 0.1,
+        "color": "Blue"
+      },
+      {
+        "name": "Cookbook",
+        "price": 25,
+        "description": "Cookbook with healthy recipes",
+        "weight": 0.7,
+        "color": "Brown"
+      }
+    ]
+  },
+  {
+    "name": "Jacob",
+    "lastName": "Williams",
+    "phoneNumber": "8765432109",
+    "address": "123 Pine St, Hilltop",
+    "age": 29,
+    "presents": [
+      {
+        "name": "Power Tool Set",
+        "price": 120,
+        "description": "Comprehensive power tool set",
+        "weight": 5.0,
+        "color": "Yellow"
+      },
+      {
+        "name": "Outdoor Grill",
+        "price": 150,
+        "description": "Portable outdoor grill",
+        "weight": 8.0,
+        "color": "Red"
+      }
+    ]
+  },
+  {
+    "name": "Oliver",
+    "lastName": "Johnson",
+    "phoneNumber": "7654321098",
+    "address": "567 Maple St, Riverside",
+    "age": 31,
+    "presents": [
+      {
+        "name": "Smart Thermostat",
+        "price": 80,
+        "description": "Smart home thermostat",
+        "weight": 0.5,
+        "color": "White"
+      },
+      {
+        "name": "Home Security Camera",
+        "price": 100,
+        "description": "Wireless home security camera",
+        "weight": 0.3,
+        "color": "Black"
+      }
+    ]
+  },
+  {
+    "name": "Mia",
+    "lastName": "Jones",
+    "phoneNumber": "6543210987",
+    "address": "789 Cedar St, Lakeside",
+    "age": 22,
+    "presents": [
+      {
+        "name": "Sketchbook",
+        "price": 15,
+        "description": "Sketchbook for creative drawings",
+        "weight": 0.6,
+        "color": "Various"
+      },
+      {
+        "name": "Portable Speaker",
+        "price": 40,
+        "description": "Portable Bluetooth speaker",
+        "weight": 0.8,
+        "color": "Blue"
+      }
+    ]
+  },
+  {
+    "name": "Henry",
+    "lastName": "Miller",
+    "phoneNumber": "7418529630",
+    "address": "852 Walnut St, Riverside",
+    "age": 36,
+    "presents": [
+      {
+        "name": "Barbecue Tool Set",
+        "price": 60,
+        "description": "Professional BBQ utensils with case",
+        "weight": 3.5,
+        "color": "Stainless Steel"
+      },
+      {
+        "name": "Whiskey Glasses",
+        "price": 30,
+        "description": "Set of premium whiskey glasses",
+        "weight": 1.0,
+        "color": "Crystal Clear"
+      }
+    ]
+  },
+  {
+    "name": "Ella",
+    "lastName": "Davis",
+    "phoneNumber": "3698521470",
+    "address": "963 Oak St, Cityville",
+    "age": 25,
+    "presents": [
+      {
+        "name": "Fashion Accessories",
+        "price": 50,
+        "description": "Trendy fashion accessory collection",
+        "weight": 2.0,
+        "color": "Assorted"
+      },
+      {
+        "name": "Perfume Set",
+        "price": 35,
+        "description": "Luxurious perfume gift set",
+        "weight": 0.5,
+        "color": "Various"
+      }
+    ]
+  }
+]
+
+
+
+
